@@ -1,6 +1,6 @@
-# 📱 代码佬Kelvin · 小红书超级运营中枢 (Standalone Operating Vault)
+# 📱 IT佬Kelvin · 小红书超级运营中枢 (Standalone Operating Vault)
 
-> **定位**：大湾区独立开发者「代码佬Kelvin」专职小红书自媒体与出海私域增长中枢  
+> **定位**：大湾区独立开发者「IT佬Kelvin」专职小红书自媒体与出海私域增长中枢  
 > **根目录**：`F:\xhs_operator\`  
 > **服务平台**：小红书（主阵地） + 微信视频号（同频阵地） + 微信/飞书双私域闭环
 
